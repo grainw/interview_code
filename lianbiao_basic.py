@@ -1,4 +1,5 @@
 # coding=utf-8
+#这是python实现链表的基础教程
 class Node(object):
     def __init__(self,data,p=0):
         self.data = data
